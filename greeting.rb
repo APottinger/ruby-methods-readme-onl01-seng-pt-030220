@@ -6,7 +6,5 @@ def greeting(name_of_person)
   puts "Hello, my little friend #{name_of_person}."
 end
 
-
-
 greeting
 
